@@ -1,3 +1,18 @@
-# Auto_Clicker
+AutoClicker: Automate Mouse Clicks with Python
 
-This is an autoclicker program implemented in Python. The program uses the PyAutoGUI library to simulate mouse clicks, and the Selenium library to control the Firefox web browser. The program can be started by clicking the 'Start' button in the GUI. Once the program is running, the user can move the mouse to the desired position and left-click to start the autoclicker. The autoclicker will continue to click at the current mouse position until the user presses the 'esc' key on the keyboard, at which point the program will stop clicking. The program includes functionality to pause clicking if the mouse moves too far from the initial position, and to resume clicking once the mouse is returned to the initial position. The program also includes a 'Reset' button that can be used to reset the autoclicker to the initial position.
+AutoClicker is a Python-based program designed to automate mouse clicks using PyAutoGUI and control the Firefox web browser through the Selenium library.
+
+Key Features:
+
+	•	PyAutoGUI Integration: Leverages PyAutoGUI to simulate mouse clicks for automation purposes.
+	•	Selenium Control: Utilizes Selenium to manage and control the Firefox web browser.
+	•	Simple GUI Interface: Initiates through a user-friendly graphical interface with a ‘Start’ button.
+	•	User-Controlled Activation: Activates the autoclicker by left-clicking at the desired mouse position.
+	•	Intelligent Pause/Resume: Pauses clicking when the mouse moves away from the initial position and resumes upon return.
+	•	Quick Reset Option: Includes a ‘Reset’ button to revert the autoclicker to its initial position.
+
+Functionality Overview:
+
+Upon clicking the ‘Start’ button within the GUI, the program enables the user to position the mouse and initiate the autoclicker by left-clicking. The autoclicker continues clicking at the current mouse position until the user presses the ‘esc’ key, prompting the program to stop clicking.
+
+Additionally, the program intelligently pauses clicking if the mouse moves significantly from its initial position and automatically resumes when the mouse returns to the initial spot. Furthermore, the ‘Reset’ button conveniently resets the autoclicker to its initial position.
