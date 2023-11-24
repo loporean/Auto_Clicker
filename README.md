@@ -15,4 +15,4 @@ Functionality Overview:
 
 Upon clicking the ‘Start’ button within the GUI, the program enables the user to position the mouse and initiate the autoclicker by left-clicking. The autoclicker continues clicking at the current mouse position until the user presses the ‘esc’ key, prompting the program to stop clicking.
 
-Additionally, the program intelligently pauses clicking if the mouse moves significantly from its initial position and automatically resumes when the mouse returns to the initial spot. Furthermore, the ‘Reset’ button conveniently resets the autoclicker to its initial position.
+The program intelligently pauses clicking if the mouse moves significantly from its initial position and automatically resumes when the mouse returns to the initial spot. Furthermore, the ‘Reset’ button conveniently resets the autoclicker to its initial position.
